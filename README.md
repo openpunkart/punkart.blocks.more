@@ -11,7 +11,12 @@ Free. Everyone Welcome.
 
 ### 2018
 
-#### \#1 - Thursday, March 15th
+#### \#1 - Thursday, March 15th (Starting @ 18.30) 
+
+@ RIAT
+
+Neubaugasse 64-66/ III / 4 (Stiege 3, Hochparterre)
+
 
 
 Talks, Talks, Talks
