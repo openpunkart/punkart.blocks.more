@@ -1,4 +1,4 @@
-_Text, Text, Text - The Past, Present, Future of Publishing & Knowledge_
+_Text, Text, Text - The Past, Present & Future of Publishing & Knowledge_
 
 # Austria.TXT - Open Access / Open Publishing / Open Books Meetup
 
