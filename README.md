@@ -11,7 +11,7 @@ Free. Everyone Welcome.
 
 ### 2018
 
-#### \#1 - Thursday, March 15th (@ 18.30) 
+#### \#1 - Monday, March 12th (@ 18.30) 
 
 @ RIAT
 
