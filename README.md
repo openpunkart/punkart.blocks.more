@@ -55,6 +55,12 @@ Publish Podcast and Radio Talk Show Notes (Websites) with the Octopod extension 
 
 
 
+### Talk Format - 20 Minutes (+ Questions)
+
+We follow the "success formula" from Vienna.js meetup and try to keep talks to about 20 minutes each - shorter always possible ;-).
+You're also welcome to split your talk in two parts (or even three) and present your talk as "episodes" at two or three 
+following meetups as an ongoing series.
+
 
 ### More Groups
 
