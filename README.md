@@ -54,7 +54,7 @@ Stefan Haslinger ([@informatom](https://twitter.com/informatom)): Talk / Demo (T
 Publish Podcast and Radio Talk Show Notes (Websites) with the Octopod extension for the Jekyll (Static) Website Compiler - Real World Case Study - 3 Schweinehunde (https://3-schweinehun.de)
 
 
-Markus Winand (https://twitter.com/MarkusWinand): Talk / Demo (To be confirmed):
+Markus Winand ([@MarkusWinand](https://twitter.com/MarkusWinand)): Talk / Demo (To be confirmed):
 
 9 years of evolution - My tool stack (DocBook XML, XSLT, SVG, automated java Tester) 
 that powers my publishing to web, offsite HTML (RSS, Mail), PDF and print.
