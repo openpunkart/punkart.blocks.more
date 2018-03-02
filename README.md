@@ -34,10 +34,6 @@ Matthias Tarasiewicz ([@parasew](https://twitter.com/parasew)): Orga Talk:
 
 To be announced
 
-Stefan Haslinger ([@informatom](https://twitter.com/informatom)): Talk / Demo:
-
-Publish Podcast and Radio Talk Show Notes (Websites) with the Octopod extension for the Jekyll (Static) Website Compiler - Real World Case Study - 3 Schweinehunde (https://3-schweinehun.de)
-
 Ramón Huidobro ([@SenorHuidobro](https://twitter.com/senorhuidobro)): Demo:
 
 Build Mac App Help Books (Plus "Classic" Online Books) with Markdown and the Jekyll (Static) Website Compiler from a Single-Source (To be confirmed)
@@ -49,6 +45,13 @@ Talks, Talks, Talks
 New speaker more than welcome. Yes, you can. Please, [open a ticket (issue)](https://github.com/austriacodes/austria.txt/issues) 
 or ping ([@austriacodes](https://twitter.com/austriacodes)) on twitter.
 
+
+#### \#2 - In About Two Months
+
+
+Stefan Haslinger ([@informatom](https://twitter.com/informatom)): Talk / Demo:
+
+Publish Podcast and Radio Talk Show Notes (Websites) with the Octopod extension for the Jekyll (Static) Website Compiler - Real World Case Study - 3 Schweinehunde (https://3-schweinehun.de)
 
 
 
