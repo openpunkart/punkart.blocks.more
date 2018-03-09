@@ -36,7 +36,7 @@ To be announced
 
 Ramón Huidobro ([@SenorHuidobro](https://twitter.com/senorhuidobro)): Demo:
 
-Build Mac App Help Books (Plus "Classic" Online Books) with Markdown and the Jekyll (Static) Website Compiler from a Single-Source (To be confirmed)
+Build Mac App Help Books (Plus "Classic" Online Books) with Markdown and the Jekyll (Static) Website Compiler from a Single-Source 
 
 
 
