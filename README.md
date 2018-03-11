@@ -34,10 +34,6 @@ Matthias Tarasiewicz ([@parasew](https://twitter.com/parasew)): Orga Talk:
 
 To be announced
 
-Ramón Huidobro ([@SenorHuidobro](https://twitter.com/senorhuidobro)): Demo:
-
-Build Mac App Help Books (Plus "Classic" Online Books) with Markdown and the Jekyll (Static) Website Compiler from a Single-Source 
-
 
 
 Talks, Talks, Talks
@@ -52,6 +48,11 @@ or ping ([@austriacodes](https://twitter.com/austriacodes)) on twitter.
 Stefan Haslinger ([@informatom](https://twitter.com/informatom)): Talk / Demo (To be confirmed):
 
 Publish Podcast and Radio Talk Show Notes (Websites) with the Octopod extension for the Jekyll (Static) Website Compiler - Real World Case Study - 3 Schweinehunde (https://3-schweinehun.de)
+
+
+Ramón Huidobro ([@SenorHuidobro](https://twitter.com/senorhuidobro)): Demo (To be confirmed):
+
+Build Mac App Help Books (Plus "Classic" Online Books) with Markdown and the Jekyll (Static) Website Compiler from a Single-Source 
 
 
 Markus Winand ([@MarkusWinand](https://twitter.com/MarkusWinand)): Talk / Demo (To be confirmed):
