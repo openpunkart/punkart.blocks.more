@@ -70,6 +70,3 @@ You're also welcome to split your talk in two parts (or even three) and present 
 following meetups as an ongoing series.
 
 
-### More Groups
-
-See the [Awesome Austria](https://github.com/austriacodes/awesome-austria) page for more.
