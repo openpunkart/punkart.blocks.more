@@ -23,6 +23,21 @@ Aliens (f)
 ![](unisize/alien-female.png).
 
 
+_More Species_
+
+Demon (f)  ![](unisize/demon-female.png), 
+Vampire (f) ![](unisize/vampire-female.png), 
+Orc (f)   ![](unisize/orc-female.png),
+Ghost (f) ![](unisize/ghost-female.png),
+Skeleton (f)  ![](unisize/skeleton-female.png),
+Mummy (f)   ![](unisize/mummy-female.png),
+Robot (f)   ![](unisize/robot-female.png), 
+Joker (f)   ![](unisize/joker-female.png),
+Jack-O-Lantern (f) ![](unisize/jack-o-lantern-female.png),
+Scream (f) ![](unisize/scream-female.png),
+Frankenstein (f)  ![](unisize/frankenstein-female.png)
+
+
 
 Attributes¹ (by category and a-z):
 - Hair -
