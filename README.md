@@ -1,72 +1,121 @@
-_Text, Text, Text - The Past, Present & Future of Publishing & Knowledge_
-
-# Austria.TXT - Open Access / Open Publishing / Open Books Meetup
 
 
+# More Punk Building Block Series Vol. 1/x - Heads
 
-Free. Everyone Welcome.
-
-
-## Meetups
-
-### 2018
-
-#### \#1 - Monday, March 12th (@ 18.30) 
-
-@ RIAT
-
-Neubaugasse 64-66/ III / 4 (Stiege 3, Hochparterre)
-
-
-For the first March meetup - Gerald Bauer([@austriacodes](https://twitter.com/austriacodes)) 
-and Matthias Tarasiewicz ([@parasew](https://twitter.com/parasew)) are the orgas. 
-
-Talks, Talks, Talks
-
-New speaker more than welcome. Yes, you can. Please, post a comment to the meetup wall. Our talks:
-
-Gerald Bauer ([@austriacodes](https://twitter.com/austriacodes)): Orga Talk:
-
-Build (Online) Presentations / Talks (and Handout Notes) with (Structured) Text with Formatting in Markdown Conventions and (Off-the-Shelf Open Free) Slide Design Themes (Bespoke.js, Reveal.js, Impress.js, Shower.js, S6, ...) and the Jekyll (Static) Website Compiler
-
-
-Matthias Tarasiewicz ([@parasew](https://twitter.com/parasew)): Orga Talk:
-
-To be announced
+Ideas for different base types, styles & formats
 
 
 
-Talks, Talks, Talks
+## Unisize Punk(ette) Series (24×24)
 
-New speaker more than welcome. Yes, you can. Please, [open a ticket (issue)](https://github.com/austriacodes/austria.txt/issues) 
-or ping ([@austriacodes](https://twitter.com/austriacodes)) on twitter.
+_"Upsized" female archetypes to the same size / dimensions (with same eyes/nose/mouth/ear positions) as male archetypes_
 
-
-#### \#2 - In About Two Months
-
-
-Stefan Haslinger ([@informatom](https://twitter.com/informatom)): Talk / Demo (To be confirmed):
-
-Publish Podcast and Radio Talk Show Notes (Websites) with the Octopod extension for the Jekyll (Static) Website Compiler - Real World Case Study - 3 Schweinehunde (https://3-schweinehun.de)
-
-
-Ramón Huidobro ([@SenorHuidobro](https://twitter.com/senorhuidobro)): Demo (To be confirmed):
-
-Build Mac App Help Books (Plus "Classic" Online Books) with Markdown and the Jekyll (Static) Website Compiler from a Single-Source 
-
-
-Markus Winand ([@MarkusWinand](https://twitter.com/MarkusWinand)): Talk / Demo (To be confirmed):
-
-9 years of evolution - My tool stack (DocBook XML, XSLT, SVG, automated java Tester) 
-that powers my publishing to web, offsite HTML (RSS, Mail), PDF and print.
-and why I ended up with this home-grown "mess"
+Humans (f)
+![](unisize/human-female_lighter.png)
+![](unisize/human-female_light.png)
+![](unisize/human-female_dark.png)
+![](unisize/human-female_darker.png),
+Zombies (f),
+![](unisize/zombie-female.png),
+Apes (f),
+![](unisize/ape-female.png),
+Aliens (f)
+![](unisize/alien-female.png).
 
 
 
-### Talk Format - 20 Minutes (+ Questions)
+Attributes¹ (by category and a-z):
+- Hair -
+  Blonde Bob (f)
+  ![](unisize/f/blondebob.png),
+  Crazy Hair (f)
+  ![](unisize/f/crazyhair.png),
+  Wild Hair (f)
+  ![](unisize/f/wildhair.png)
+- Eyes (Makeup) -
+  Green Eye Shadow (f)
+  ![](unisize/f/greeneyeshadow.png)
 
-We follow the "success formula" from the Vienna.js meetup and try to keep talks to about 20 minutes each - shorter always possible ;-).
-You're also welcome to split your talk in two parts (or even three) and present your talk as "episodes" at two or three 
-following meetups as an ongoing series.
+¹: "Upsized" (female only) from the basic series
 
+
+
+## Faceless Punk Series (24×24)
+
+_Unisize & unisex archetypes from scratch / zero. Add your own eyebrows / eyes / nose / mouth_
+
+Humans (u)
+![](faceless/human-i_lighter.png)
+![](faceless/human-i_light.png)
+![](faceless/human-i_dark.png)
+![](faceless/human-i_darker.png)
+![](faceless/human-ii_lighter.png)
+![](faceless/human-ii_light.png)
+![](faceless/human-ii_dark.png)
+![](faceless/human-ii_darker.png).
+
+
+
+Attributes (by category and a-z):
+
+- Eyebrows -
+  Eyebrows (u)
+  ![](faceless/u/eyebrows.png)
+- Eyes -
+  Eyes (u)
+  ![](faceless/u/eyes.png)
+- Nose -
+  Nose (u)
+  ![](faceless/u/nose.png),
+  Nose Small (u)
+  ![](faceless/u/nose_small.png)
+- Mouth -
+  Mouth (u)
+  ![](faceless/u/mouth.png),
+  Mouth Darker/Dark/Light (f)
+  ![](faceless/f/mouth_darker.png)
+  ![](faceless/f/mouth_dark.png)
+  ![](faceless/f/mouth_light.png)
+- Mouth (Emotion) -
+  Smile Darker/Dark/Light (f)
+  ![](faceless/f/smile_darker.png)
+  ![](faceless/f/smile_dark.png)
+  ![](faceless/f/smile_light.png)
+
+
+
+
+
+## Normie Series (24×24)
+
+_Left-facing? Right-facing? Normie designs use the golden middle. Male? Female? Non-binary? Normie designs are unisex_
+
+Human ![](normies/normie_human-lighter.png) ![](normies/normie_human-light.png) ![](normies/normie_human-dark.png) ![](normies/normie_human-darker.png),
+Alien ![](normies/normie_alien.png),
+Ape ![](normies/normie_ape.png),
+Zombie  ![](normies/normie_zombie.png),
+Demon  ![](normies/normie_demon.png),
+Skeleton  ![](normies/normie_skeleton.png)
+
+
+
+## Bonus: Marcs  (24×24) 
+
+Human (m) ![](marcs/marc.png),
+Zombie (m) ![](marcs/zombie_marc.png),
+Apes (m) ![](marcs/ape_marc.png) ![](marcs/pink_ape_marc.png) ![](marcs/golden_ape_marc.png),
+Aliens (m)  ![](marcs/alien_marc.png) ![](marcs/green_alien_marc.png),
+Demons (m) ![](marcs/demon_marc1.png) ![](marcs/demon_marc2.png),
+Orc (m)   ![](marcs/orc_marc.png),
+Skeleton (m) ![](marcs/skeleton_marc.png).
+
+
+
+
+## Questions? Comments?
+
+Join us in the [Punk Art discord (chat server)](https://discord.gg/FE3HeXNKRa). Yes you can.
+Your questions and commentary welcome.
+
+Or post them over at the [Help & Support](https://github.com/geraldb/help) page. Thanks.
 
