@@ -39,20 +39,6 @@ Frankenstein (f)  ![](unisize/frankenstein-female.png)
 
 
 
-Attributes¹ (by category and a-z):
-- Hair -
-  Blonde Bob (f)
-  ![](unisize/f/blondebob.png),
-  Crazy Hair (f)
-  ![](unisize/f/crazyhair.png),
-  Wild Hair (f)
-  ![](unisize/f/wildhair.png)
-- Eyes (Makeup) -
-  Green Eye Shadow (f)
-  ![](unisize/f/greeneyeshadow.png)
-
-¹: "Upsized" (female only) from the basic series
-
 
 
 ## Faceless Punk Series (24×24)
